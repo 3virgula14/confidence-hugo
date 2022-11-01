@@ -1,7 +1,7 @@
 {
-  "name": "victor-hugo",
+  "name": "confidence-website-hugo",
   "version": "2.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
+  "description": "",
   "repository": "netlify/victor-hugo",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "build:hugo:preview": "npm run build:hugo -- -D -F",
     "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
   },
-  "author": "",
+  "author": "Ícaro Glauco",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.16.0",
